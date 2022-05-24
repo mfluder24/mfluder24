@@ -1,9 +1,10 @@
 ### Osiyo! I'm Fox 👋  
 
 * 😄 Pronouns: He/They
-* 🔭 Software Developer Boot Camp Graduate.
+* 🖥️ Software Developer Boot Camp Graduate.
 * 🌱 I’m currently learning JavaScript, C#, .NET, Entity Framework, and SQL.
 * 💬 Ask me about Coding, the Arts, Games, the Environment, and my Corgi 🐾
+* 🌏 Check out my [Portfolio](https://mfluder24.github.io/portfolio/)
 * 📫 How to reach me: fox.e.addams@gmail.com
 
 <!--
