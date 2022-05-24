@@ -1,4 +1,10 @@
-### Hi there 👋
+### Osiyo! I'm Fox 👋  
+
+* 😄 Pronouns: He/They
+* 🔭 Software Developer Boot Camp Graduate.
+* 🌱 I’m currently learning JavaScript, C#, .NET, Entity Framework, and SQL.
+* 💬 Ask me about Coding, the Arts, Games, the Environment, and my Corgi 🐾
+* 📫 How to reach me: fox.e.addams@gmail.com
 
 <!--
 **mfluder24/mfluder24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
